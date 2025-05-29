@@ -4,5 +4,24 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: d38a410e8e272054dbce8c7188443c75
+  - enabled: 0
+    path: Assets/Scenes/PvP.unity
+    guid: ab3480a2ac9c70c40b4cfb327efc324d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/NetPackage/Tests/Resources/TestScene.unity
+    guid: e1de37189f59d1b4b84be753c498e3a4
+  - enabled: 1
+    path: Assets/NetPackage/Tests/Resources/TestScene2.unity
+    guid: c4ce8257c50be7f41925e015a8055b6f
+  - enabled: 1
+    path: Assets/NetPackage/Tests/Resources/TestScene3.unity
+    guid: e01bc40a6f898bb4b89f7418b9aa9a31
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
